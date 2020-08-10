@@ -1,2 +1,2 @@
-# one-study
+# study-one
 start!
